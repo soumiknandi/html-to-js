@@ -1,0 +1,16 @@
+/* Class Selector */
+.bb-color {
+    background-color: red;
+ }
+ /* Element Selector */
+ h3 {
+    text-align: left;
+ }
+ /* ID Selector */
+ #id-h2 {
+    text-align: center;
+ }
+/* Group Selector */
+ h1,p {
+    color: #00FF00;
+ }

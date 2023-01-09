@@ -1,0 +1,13 @@
+.card-text-style {
+   font-size: 18px;
+   font-style: italic;
+}
+
+.row > * {
+   padding-left: 0px !important;
+   padding-right: 0px !important;
+}
+
+.card-style {
+   margin: 8px;
+}
